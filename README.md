@@ -16,16 +16,15 @@
 
 ---
 
-<details open>
+ <details open>
 
 <summary>Meme</summary>
 
-  
-<p align="center">
-<!--   <img src="https://i.kym-cdn.com/entries/icons/original/000/032/379/Screen_Shot_2020-01-09_at_2.22.56_PM.png" width="500"> -->
-  <img src="https://memeapi-thorved.herokuapp.com/meme/ProgrammerHumor" width="500">
-</p>
-</details>
+| Meme 1       |    Meme 2           
+| ------------- |:-------------:
+|  <img src="https://memeapi-thorved.herokuapp.com/meme/ProgrammerHumor" width="500">     |  <img src="https://memeapi-thorved.herokuapp.com/meme/" width="500"> 
+
+</details> 
 
 ---
 
