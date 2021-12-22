@@ -22,7 +22,7 @@
 
 | Meme 1       |    Meme 2           
 | ------------- |:-------------:
-|  <img src="https://memeapi-thorved.herokuapp.com/meme/ProgrammerHumor" width="500">     |  <img src="https://memeapi-thorved.herokuapp.com/meme/" width="500"> 
+|  <img src="https://memeapi.ved.yt/meme/ProgrammerHumor" width="500">     |  <img src="https://memeapi.ved.yt/meme/" width="500"> 
 
 </details> 
 
